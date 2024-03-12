@@ -1,4 +1,4 @@
-# SONATINEN Sales Product Performance Dashboard
+# Sales Product Performance Dashboard
 
 ## Project Overview
 
