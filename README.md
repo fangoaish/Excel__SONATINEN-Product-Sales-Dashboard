@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The SONATINEN Sales Product Performance Dashboard aims to provide comprehensive insights into the sales performance of products across various dimensions such as time, geography, and customer demographics. Utilizing data from six separate tables, the dashboard will offer a holistic view of sales metrics and trends.
+The Sales Product Performance Dashboard aims to provide comprehensive insights into the sales performance of products across various dimensions such as time, geography, and customer demographics. Utilizing data from six separate tables, the dashboard will offer a holistic view of sales metrics and trends.
 
 ### Dashboard 1 - Main Metrics Dashboard:
 - Create visualizations for main metrics including
