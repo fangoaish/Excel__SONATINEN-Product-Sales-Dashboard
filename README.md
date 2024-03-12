@@ -30,15 +30,14 @@ The SONATINEN Sales Product Performance Dashboard aims to provide comprehensive 
 <img width="1373" alt="Dashboard 2" src="https://github.com/fangoaish/Excel__SONATINEN-Sales-Product-Performance-Dashboard/assets/51399519/80efffeb-06a0-4006-bd68-ed6b1bc6add2">
 
 
-
 ## Project Steps
 1. Data Gathering
-2. Data Preparation Using Advanced Formulas and Functions
+2. Data Preparation Using Power Query, Advanced Formulas and Functions
 3. Exploratory Data Analysis
 4. Data Visualizations and Dashboard Build using **Pivot Tables**, **Pivot Charts**, **Timeline**, **Slicers** and **Macro**
 
 ## Data Sources
-The data source is a fictitious products sales dataset.
+The data source is a fictitious product sales dataset.
   - SONATINEN.csv
 
 The data contains six separate tables:
