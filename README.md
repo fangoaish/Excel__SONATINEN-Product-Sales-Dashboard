@@ -27,7 +27,8 @@ The SONATINEN Sales Product Performance Dashboard aims to provide comprehensive 
 - Analyze Profit by Gender and Age Group contribution to Total Profit
 - Visualize Total Profit by Countries
 
-<img width="1369" alt="Dashboard-2" src="https://github.com/fangoaish/Excel__SONATINEN-Sales-Product-Performance-Dashboard/assets/51399519/fc4293ac-0d2e-4b52-bdf3-79f4b351d629">
+<img width="1373" alt="Dashboard 2" src="https://github.com/fangoaish/Excel__SONATINEN-Sales-Product-Performance-Dashboard/assets/51399519/80efffeb-06a0-4006-bd68-ed6b1bc6add2">
+
 
 
 ## Project Steps
