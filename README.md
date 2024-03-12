@@ -2,9 +2,32 @@
 
 ## Project Overview
 
-This dashboard will enable users to quickly identify trends in coffee bean sales and make comparisons across different bean types and countries. This project involves end-to-end data analysis in Excel, from data gathering to data cleaning and transformation, all the way to creating meaningful visualizations in the form of a dynamic and interactive dashboard.
+The SONATINEN Sales Product Performance Dashboard aims to provide comprehensive insights into the sales performance of products across various dimensions such as time, geography, and customer demographics. Utilizing data from six separate tables, the dashboard will offer a holistic view of sales metrics and trends.
 
-<img width="1353" alt="Overview of Coffee Sales Dashboard" src="https://github.com/fangoaish/Excel__Coffee-Sales-Dashboard/assets/51399519/f53cc2bf-279b-4256-b2b9-658a1012cabd">
+### Dashboard - 1 - Main Metrics Dashboard:
+- Create visualizations for main metrics including
+  - **Total Orders**
+  - **Total COGS**
+  - **Total Revenue**
+  - **Total Profit**
+  - **% Profit Margin**
+  - **# Transaction**
+- Implement time slicers for filtering data by
+  - **Months** (Jan- Dec)
+  - **Year** (2015-2018)
+  - **Country** (Australia, Canada, France, Germany, United Kingdom, United States)
+- Develop visualizations for **Weekday**, **Monthly**, and **Quarterly** views of Total Profit
+<img width="1377" alt="Dashboard-1" src="https://github.com/fangoaish/Excel__SONATINEN-Sales-Product-Performance-Dashboard/assets/51399519/0ac81010-0fa7-46ce-b894-788ae83fba7a">
+
+### Dashboard - 2 - Product Performance Dashboard:
+- Analyze the Top 5 Profitable Products and visualize their performance
+- Compare the Profit Share of the Top 5 Products vs. Others
+- Provide an overview of Total Products, Sold Products, and Unsold Products
+- Display Total Profit Share by Product Pricing Strategy (Premium Pricing above $539.99, Penetration Pricing below $539.99)
+- Analyze Profit by Gender and Age Group contribution to Total Profit
+- Visualize Total Profit by Countries
+
+<img width="1369" alt="Dashboard-2" src="https://github.com/fangoaish/Excel__SONATINEN-Sales-Product-Performance-Dashboard/assets/51399519/fc4293ac-0d2e-4b52-bdf3-79f4b351d629">
 
 
 ## Project Steps
@@ -18,7 +41,7 @@ The data source is a fictitious products sales dataset.
   - SONATINEN.csv
 
 The data contains six separate tables:
-- **FactInternetSales**, **DimProduct**, **DimSalesTerritory**, **DimDate**, **DimCustomer** and **DimGeography**
+- FactInternetSales, DimProduct, DimSalesTerritory, DimDate, DimCustomer and DimGeography
   - The **FactInternetSales** table is the _fact table_
   - The **DimProduct**, **DimSalesTerritory**, **DimDate**, **DimCustomer** and **DimGeography** tables are the _dimension tables_.
 
