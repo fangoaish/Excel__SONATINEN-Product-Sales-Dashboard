@@ -62,6 +62,36 @@ The data contains six separate tables:
 ![Categorize pricing types](https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/a072928f-7e2c-4a87-9a02-0719697acc70)
 
 
+## Data Exploration
+- Use Power Pivot to calcuate the measures for the following main metrics
+  - Total Orders
+  - Total COGS
+  - Total Revenue
+  - Total Profit
+  - %Profit Margin
+  - #Transaction
+![Calculation from Power Pivot for Measures](https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/6cc33549-c2ba-41db-9203-1c9b6eb736b2)
+![All Measures](https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/91513f08-15e8-41ae-a552-fc68d4e86142)
+
+
+- Use **IFs** function to coordinate with option button so the graphics becomes dynamic
+    - Switch between Revenue / Profit / #Transaction
+<img width="1232" alt="IFS function to coordinate with option button" src="https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/7662adc5-411b-473e-aecb-9bc21da5d607">
+<img width="288" alt="dynamic option buttion" src="https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/223e8b96-cde3-43f7-985e-4956ffaee67a">
+
+
+- Use **IF** function to check if the #Transaction(Revenue / Profit)above the average or not so we can highight the above average data with different color in the graphic
+<img width="1232" alt="IF function to check above average" src="https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/f6b112c3-170a-42dc-9618-f54ed3e433c1">
+<img width="285" alt="Hight the data above average" src="https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/a3bbb715-a0d9-471f-a19e-2e9900854316">
+
+- Use **VLOOKUp** function to make comparision of the YoY performance of the main metrics such as Total Orders, Total COGS, Total Revenue, Total Profit, %Profit Margin and #Transaction
+<img width="763" alt="Vlookup" src="https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/222e5dab-3041-4c40-acd5-9db63721c7c1">
+
+![YoY comparison](https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/d90b1a76-482b-42f2-adc9-0463401314e6)
+
+
+
+
 ## Exploratory Data Analysis
 The primary objective of the Coffee Sales Dashboard is to provide comprehensive insights into our coffee sales performance, enabling effective decision-making and strategy formulation. The dashboard leverages various data manipulation and lookup techniques to present a holistic view of our sales operations. The following guidelines outline the specific objectives and functionalities of the dashboard:
 
