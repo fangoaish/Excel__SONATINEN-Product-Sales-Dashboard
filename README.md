@@ -34,7 +34,7 @@ The SONATINEN Sales Product Performance Dashboard aims to provide comprehensive 
 1. Data Gathering
 2. Data Preparation Using Advanced Formulas and Functions
 3. Exploratory Data Analysis
-4. Data Visualizations and Dashboard Build using **Pivot Tables**, **Pivot Charts**, **Timeline** and **Slicers**
+4. Data Visualizations and Dashboard Build using **Pivot Tables**, **Pivot Charts**, **Timeline**, **Slicers** and **Macro**
 
 ## Data Sources
 The data source is a fictitious products sales dataset.
