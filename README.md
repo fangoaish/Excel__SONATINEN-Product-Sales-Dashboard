@@ -23,7 +23,7 @@ The Sales Product Performance Dashboard aims to provide comprehensive insights i
 - Analyze the Top 5 Profitable Products and visualize their performance
 - Compare the Profit Share of the Top 5 Products vs. Others
 - Provide an overview of Total Products, Sold Products, and Unsold Products
-- Display Total Profit Share by Product Pricing Strategy (Premium Pricing above $539.99, Penetration Pricing below $539.99)
+- Display Total Profit Share by Product Pricing Strategy (Premium Pricing: above $539.99, Penetration Pricing: below $539.99)
 - Analyze Profit by Gender and Age Group contribution to Total Profit
 - Visualize Total Profit by Countries
 
@@ -47,35 +47,19 @@ The data contains six separate tables:
 
   
 ## Data Preparation
-- Use **XLOOKUP** to look up the full customer name from the _customers_ table to the _orders_ table
-  
-<img width="725" alt="XLookup - Customer Name" src="https://github.com/fangoaish/Excel__Coffee-Sales-Dashboard/assets/51399519/c7e1ab19-0966-4890-bbe8-0feadbfabdf7">
+- Use Power Query to remove unnecessary columns that are not relevant to the analysis and conduct Power Pivot to understand the relationship between each table
+![Power Pivot](https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/a453fd90-eeb5-49b0-9d3e-3915f9480795)
 
-- Use **IF** and **XLOOKUP** to look up the email address from the _customers_ table to the _orders_ table
-  
-<img width="1431" alt="IF    XLookup - email address" src="https://github.com/fangoaish/Excel__Coffee-Sales-Dashboard/assets/51399519/19d3c6ca-148c-47f1-9de4-122bf70cea37">
+- Use Power Query to sort the month sequences by month number so the pivot table starts from January
+![Sort the month sequence](https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/e60e2b05-247f-48b9-8a52-2f79fc76c047)
+![sort by month number](https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/f92b35de-c4cf-4116-8816-da9778d78231)
 
+- Add the the Age column from BirthDate column and categorize into different age group
+![Date - Age - Transform - Total Years - Round Down](https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/796cf515-c959-4845-8b27-3dac374d92a4)
+![Categorize Age Group](https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/b65b7ef1-cbcd-4b2c-a138-8ca2b0570f2a)
 
-- Use **XLOOKUP** to look up the country of the customer from the _customers_ table to the orders table
-<img width="1087" alt="XLookup Country" src="https://github.com/fangoaish/Excel__Coffee-Sales-Dashboard/assets/51399519/b364b778-faa5-4a84-86f8-87d6e27134aa">
-
-
-- Use only one dynamic **INDEX MATCH** formula to look up the coffee type, roast type, size and unit price values from the _products_ table to the _orders_ table.
-- Use the correct cell locking (i.e. “$” signs) so that the formula in cell H1 can be automatically filled to the right and to the bottom of the table.
-<img width="1191" alt="Index Match - Coffee Type, Roast Type, Size and Unite Price" src="https://github.com/fangoaish/Excel__Coffee-Sales-Dashboard/assets/51399519/f26dca47-5673-4756-a8ca-f34d400ac434">
-
-
-- Calculate the sales as the product of **price*quantity**
-<img width="1055" alt="Sales Calculation" src="https://github.com/fangoaish/Excel__Coffee-Sales-Dashboard/assets/51399519/d02bdd82-8fce-4ba5-95ed-95b04a33ca68">
-
-
-- Use multiple **IF** functions to map the full coffee type and roast type names
-<img width="1184" alt="Multiple IF - Coffee Type" src="https://github.com/fangoaish/Excel__Coffee-Sales-Dashboard/assets/51399519/c01f3cb0-f322-4e52-b315-1ac66bdcd9ba">
-<img width="1259" alt="Multiple IF - Roast Type" src="https://github.com/fangoaish/Excel__Coffee-Sales-Dashboard/assets/51399519/b542926e-0ce6-4695-82f5-987a254f71c9">
-
-
-- Use **XLOOKUP** to look up the loyalty card status from the _customers_ table to the _orders_ table
-<img width="1314" alt="'XLookup - Loyalty Card" src="https://github.com/fangoaish/Excel__Coffee-Sales-Dashboard/assets/51399519/c5ceb6cb-f66d-45c6-9084-444797926034">
+- Categorize pricing types into Premium Pricing: above $539.99 and Penetration Pricing: below $539.99
+![Categorize pricing types](https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/a072928f-7e2c-4a87-9a02-0719697acc70)
 
 
 ## Exploratory Data Analysis
