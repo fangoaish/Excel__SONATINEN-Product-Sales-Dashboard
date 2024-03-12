@@ -99,23 +99,5 @@ The data contains six separate tables:
 <img width="901" alt="Index Match to find  Age_Group" src="https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/03c7fed1-9fd6-4a94-996a-c3e4f1416545">
 
 
-
-## Exploratory Data Analysis
-The primary objective of the Coffee Sales Dashboard is to provide comprehensive insights into our coffee sales performance, enabling effective decision-making and strategy formulation. The dashboard leverages various data manipulation and lookup techniques to present a holistic view of our sales operations. The following guidelines outline the specific objectives and functionalities of the dashboard:
-
-- **Data Integration**: Integrate data from orders, customers, and products tables to provide a consolidated view of sales transactions, customer information, and product details.
-
-- **Customer Information** Lookup: Utilize XLOOKUP to efficiently retrieve the full customer name and email address from the customers table and incorporate them into the orders table, enhancing customer-centric analysis and communication.
-
-- **Country Mapping**: Employ XLOOKUP to map the country of the customer from the customers table to the orders table, facilitating regional sales analysis and targeted marketing strategies.
-
-- **Product Details Integration**: Utilize dynamic INDEX MATCH formulae to seamlessly integrate coffee type, roast type, size, and unit price values from the products table into the orders table. Ensure correct cell locking to automate formula application across the dataset.
-
-- **Sales Calculation**: Calculate sales revenue by multiplying the unit price with the quantity sold, providing insights into revenue generation and product performance.
-
-- **Standardization of Coffee Types**: Utilize multiple IF functions to standardize coffee type and roast type names, ensuring consistency in reporting and analysis.
-
-- **Loyalty Card Status Lookup**: Utilize XLOOKUP to incorporate loyalty card status from the customers table into the orders table, enabling targeted marketing campaigns and customer loyalty analysis.
-
-By adhering to these guidelines, the Coffee Sales Dashboard aims to empower stakeholders with actionable insights, foster informed decision-making, and drive business growth in the competitive coffee market landscape.
-
+## Conclusion
+By streamlining data preparation, exploration, and visualization processes, the dashboard empowers organizations to identify trends, track performance metrics, and optimize strategies for success. 
