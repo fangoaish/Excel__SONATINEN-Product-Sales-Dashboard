@@ -51,7 +51,6 @@ The data contains six separate tables:
 ![Power Pivot](https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/a453fd90-eeb5-49b0-9d3e-3915f9480795)
 
 - Use Power Query to sort the month sequences by month number so the pivot table starts from January
-![Sort the month sequence](https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/e60e2b05-247f-48b9-8a52-2f79fc76c047)
 ![sort by month number](https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/f92b35de-c4cf-4116-8816-da9778d78231)
 
 - Add the the Age column from BirthDate column and categorize into different age group
@@ -63,7 +62,7 @@ The data contains six separate tables:
 
 
 ## Data Exploration
-- Use Power Pivot to calcuate the measures for the following main metrics
+- Use Power Pivot to calculate the measures for the following main metrics
   - Total Orders
   - Total COGS
   - Total Revenue
@@ -74,21 +73,30 @@ The data contains six separate tables:
 ![All Measures](https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/91513f08-15e8-41ae-a552-fc68d4e86142)
 
 
-- Use **IFs** function to coordinate with option button so the graphics becomes dynamic
+- Use **IFs** function to coordinate with the option button so the graphics become dynamic
     - Switch between Revenue / Profit / #Transaction
 <img width="1232" alt="IFS function to coordinate with option button" src="https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/7662adc5-411b-473e-aecb-9bc21da5d607">
-<img width="288" alt="dynamic option buttion" src="https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/223e8b96-cde3-43f7-985e-4956ffaee67a">
+<img width="288" alt="dynamic option button" src="https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/223e8b96-cde3-43f7-985e-4956ffaee67a">
 
 
-- Use **IF** function to check if the #Transaction(Revenue / Profit)above the average or not so we can highight the above average data with different color in the graphic
+- Use **IF** function to check if the #Transaction(Revenue / Profit) is above the average or not so we can highlight the above-average data with a different color in the graphic
 <img width="1232" alt="IF function to check above average" src="https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/f6b112c3-170a-42dc-9618-f54ed3e433c1">
 <img width="285" alt="Hight the data above average" src="https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/a3bbb715-a0d9-471f-a19e-2e9900854316">
 
-- Use **VLOOKUp** function to make comparision of the YoY performance of the main metrics such as Total Orders, Total COGS, Total Revenue, Total Profit, %Profit Margin and #Transaction
+- Use **VLOOKUp** function to make the comparison of the YoY performance of the main metrics such as Total Orders, Total COGS, Total Revenue, Total Profit, %Profit Margin, and #Transaction
+- Use **IFERROR** function to manage the errors if the previous year's data is missing.
 <img width="763" alt="Vlookup" src="https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/222e5dab-3041-4c40-acd5-9db63721c7c1">
 
 ![YoY comparison](https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/d90b1a76-482b-42f2-adc9-0463401314e6)
 
+- Use **Large** function to highlight the total profit of the Top 3 months
+- Use **Index Match** to find out the Top 3 months
+<img width="1068" alt="Highlight the Top 3 Months" src="https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/b104d7da-764b-499a-ad80-8d505ca63abf">
+<img width="966" alt="Index Match to find out the top 3 months" src="https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/137ab680-23af-421f-9489-3cb1f4bdb3c6">
+
+
+- Use **Index Match** to find out the corresponded age group
+<img width="901" alt="Index Match to find  Age_Group" src="https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/03c7fed1-9fd6-4a94-996a-c3e4f1416545">
 
 
 
