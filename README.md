@@ -4,7 +4,7 @@
 
 The SONATINEN Sales Product Performance Dashboard aims to provide comprehensive insights into the sales performance of products across various dimensions such as time, geography, and customer demographics. Utilizing data from six separate tables, the dashboard will offer a holistic view of sales metrics and trends.
 
-### Dashboard - 1 - Main Metrics Dashboard:
+### Dashboard 1 - Main Metrics Dashboard:
 - Create visualizations for main metrics including
   - **Total Orders**
   - **Total COGS**
@@ -19,7 +19,7 @@ The SONATINEN Sales Product Performance Dashboard aims to provide comprehensive 
 - Develop visualizations for **Weekday**, **Monthly**, and **Quarterly** views of Total Profit
 <img width="1377" alt="Dashboard-1" src="https://github.com/fangoaish/Excel__SONATINEN-Sales-Product-Performance-Dashboard/assets/51399519/0ac81010-0fa7-46ce-b894-788ae83fba7a">
 
-### Dashboard - 2 - Product Performance Dashboard:
+### Dashboard 2 - Product Performance Dashboard:
 - Analyze the Top 5 Profitable Products and visualize their performance
 - Compare the Profit Share of the Top 5 Products vs. Others
 - Provide an overview of Total Products, Sold Products, and Unsold Products
@@ -34,7 +34,7 @@ The SONATINEN Sales Product Performance Dashboard aims to provide comprehensive 
 1. Data Gathering
 2. Data Preparation Using Advanced Formulas and Functions
 3. Exploratory Data Analysis
-4. Data Visualizations and Dashboard Build Using **Pivot Tables**, **Pivot Charts**, **Timeline** and **Slicers**
+4. Data Visualizations and Dashboard Build using **Pivot Tables**, **Pivot Charts**, **Timeline** and **Slicers**
 
 ## Data Sources
 The data source is a fictitious products sales dataset.
