@@ -27,7 +27,8 @@ The Sales Product Performance Dashboard aims to provide comprehensive insights i
 - Analyze Profit by Gender and Age Group contribution to Total Profit
 - Visualize Total Profit by Countries
 
-<img width="1373" alt="Dashboard 2" src="https://github.com/fangoaish/Excel__SONATINEN-Sales-Product-Performance-Dashboard/assets/51399519/80efffeb-06a0-4006-bd68-ed6b1bc6add2">
+<img width="1374" alt="Dashboard 2" src="https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/40e303c9-dd4d-4c12-ab3b-0bfeb9ffdee4">
+
 
 
 ## Project Steps
