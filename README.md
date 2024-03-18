@@ -69,6 +69,9 @@ The data contains six separate tables:
   - Total Profit
   - %Profit Margin
   - #Transaction
+  - All Products
+  - Sold Products
+  - Unsold Products
 ![Calculation from Power Pivot for Measures](https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/6cc33549-c2ba-41db-9203-1c9b6eb736b2)
 ![All Measures](https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/91513f08-15e8-41ae-a552-fc68d4e86142)
 
