@@ -5,31 +5,66 @@
 The Sales Product Performance Dashboard aims to provide comprehensive insights into the sales performance of products across various dimensions such as time, geography, and customer demographics. Utilizing data from six separate tables, the dashboard will offer a holistic view of sales metrics and trends.
 
 ### Dashboard 1 - Main Metrics Dashboard:
-- Create visualizations for main metrics including
-  - **Total Orders**
-  - **Total COGS**
-  - **Total Revenue**
-  - **Total Profit**
-  - **% Profit Margin**
-  - **# Transaction**
-- Implement time slicers for filtering data by
-  - **Months** (Jan- Dec)
-  - **Year** (2015-2018)
-  - **Country** (Australia, Canada, France, Germany, United Kingdom, United States)
-- Develop visualizations for **Weekday**, **Monthly**, and **Quarterly** views of Total Profit
+
+Dashboard - 1
+1. **KPI Comparison to Previous Year**:
+	- Cost of Goods(COGS), Revenue, Quantity, Profit, Profit Margin, and Transaction compared to the previous year.
+		- How did our Cost of Goods, Revenue, Quantity, Profit, Profit Margin, and Transaction metrics perform compared to the previous year?
+		- What factors contributed to any significant changes in these metrics compared to the previous year?
+2. **Yearly Performance Metrics(Above Average Years)**:
+	- Total Revenue, Profit, and Transaction for years exceeding the average performance.
+		- Which years have exceeded the average performance in terms of Total Revenue, Profit, and Transaction?
+		- What strategies or initiatives were implemented during these high-performing years that contributed to their success?
+3. **Monthly Profit Trends**:
+	- Analyzing profit trends monthly.
+		- What are the trends in monthly profit performance? Are there any seasonal patterns or fluctuations that need attention?
+		- How do external factors such as market conditions or consumer behavior impact monthly profit trends?
+4. **Profit by Week Type**:
+	- Assessing profit based on different week types.
+		- How does profit vary across different week types (e.g., weekdays vs. weekends)?
+		- Are there specific days or periods within the week that consistently drive higher profits?
+5. **Quarterly Profit Analysis**:
+	- Evaluating profit performance every quarter.
+		- How does profit performance vary from quarter to quarter?
+		- Are there specific quarters that consistently outperform others, and if so, what factors contribute to their success?
+6. **Profit by Weekday**:
+	- Examining profit trends specific to weekdays.
+		- What are the profit trends specific to weekdays?
+		- Are there particular weekdays that consistently generate higher profits, and if so, why?
 <img width="1377" alt="Dashboard-1" src="https://github.com/fangoaish/Excel__SONATINEN-Sales-Product-Performance-Dashboard/assets/51399519/0ac81010-0fa7-46ce-b894-788ae83fba7a">
 
-### Dashboard 2 - Product Performance Dashboard:
-- Analyze the Top 5 Profitable Products and visualize their performance
-- Compare the Profit Share of the Top 5 Products vs. Others
-- Provide an overview of Total Products, Sold Products, and Unsold Products
-- Display Total Profit Share by Product Pricing Strategy (Premium Pricing: above $539.99, Penetration Pricing: below $539.99)
-- Analyze Profit by Gender and Age Group contribution to Total Profit
-- Visualize Total Profit by Countries
 
+### Dashboard 2 - Product Performance Dashboard:
+Dashboard - 2
+1. **Top 5 Profitable Products (% Contribution and Others)**:
+	- Identifies the five most profitable products and their contribution as a percentage of total profits, with insights into the rest.
+		- Which products are the top performers in terms of profitability, and what percentage of total profits do they contribute?
+		- Are there opportunities to optimize product offerings or pricing strategies to further enhance profitability?
+2. **Top 5 Profitable Customers (% Contribution and Others)**:
+	- Highlights the top five high-profit customers, their percentage share of overall profits, and details about other customers' contributions.
+		- Who are our highest-profit customers, and what percentage of overall profits do they contribute?
+		- How can we deepen relationships with these key customers and attract similar high-value customers?
+3. **Profit by Gender**:
+	- Displays profit breakdown by gender, helping identify gender-based profit trends.
+		- How does profit break down by gender, and are there any notable differences in purchasing behavior or preferences between genders?
+4. **Profit by Product Color (Highlighting Best Sellers)**:
+	- Analyzes profits associated with product colors, highlighting the best-selling colors for optimization.
+		- Which product colors are the best sellers in terms of profitability, and are there opportunities to leverage this insight to optimize inventory or marketing efforts?
+5. **Profit by Pricing Types**:
+	- Examines profit variations based on pricing types, providing insights into pricing strategy effectiveness.
+		- How do profit variations differ based on pricing types (e.g., regular price vs. discount)?
+		- Are there pricing strategies that consistently drive higher profitability, and how can they be refined or expanded?
+6. **Country-wise Profit (Custom Map)**:
+	- Utilizes a custom map to visualize profit distribution by country, aiding in geographic targeting.
+		- How is profit distributed geographically across different countries?
+		- Are there untapped markets or regions with growth potential that warrant strategic focus?
+7. **Profit by Age Groups**:
+	- Segment profits into age groups to understand which age demographics contribute the most to profitability.
+		- Which age demographics contribute the most to profitability, and are there opportunities to tailor products or marketing strategies to better resonate with these groups?
 <img width="1337" alt="Dashboard 2" src="https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/361e17f8-52e9-47c4-9e58-52ffc31c2b94">
 
-
+To build an actionable roadmap for upcoming years based on the metrics provided in the dashboards, we can frame key questions around each metric to guide strategic planning and decision-making. 
+These metrics provide a starting point for analyzing the data presented in the dashboards and developing actionable strategies for future growth and optimization.
 
 ## Project Steps
 1. Data Gathering
