@@ -34,7 +34,7 @@ Dashboard - 1
 <img width="1377" alt="Dashboard-1" src="https://github.com/fangoaish/Excel__SONATINEN-Sales-Product-Performance-Dashboard/assets/51399519/0ac81010-0fa7-46ce-b894-788ae83fba7a">
 
 
-### Dashboard 2 - Product Performance Dashboard:
+### Dashboard 2 - Product Performance Dashboard
 Dashboard - 2
 1. **Top 5 Profitable Products (% Contribution and Others)**:
 	- Identifies the five most profitable products and their contribution as a percentage of total profits, with insights into the rest.
