@@ -5,8 +5,6 @@
 The Sales Product Performance Dashboard aims to provide comprehensive insights into the sales performance of products across various dimensions such as time, geography, and customer demographics. Utilizing data from six separate tables, the dashboard will offer a holistic view of sales metrics and trends.
 
 ### Dashboard 1 - Main Metrics Dashboard:
-
-Dashboard - 1
 1. **KPI Comparison to Previous Year**:
 	- Cost of Goods(COGS), Revenue, Quantity, Profit, Profit Margin, and Transaction compared to the previous year.
 		- How did our Cost of Goods, Revenue, Quantity, Profit, Profit Margin, and Transaction metrics perform compared to the previous year?
@@ -35,7 +33,6 @@ Dashboard - 1
 
 
 ### Dashboard 2 - Product Performance Dashboard
-Dashboard - 2
 1. **Top 5 Profitable Products (% Contribution and Others)**:
 	- Identifies the five most profitable products and their contribution as a percentage of total profits, with insights into the rest.
 		- Which products are the top performers in terms of profitability, and what percentage of total profits do they contribute?
