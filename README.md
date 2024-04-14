@@ -4,37 +4,37 @@
 
 The Sales Product Performance Dashboard aims to provide comprehensive insights into the sales performance of products across various dimensions such as time, geography, and customer demographics. Utilizing data from six separate tables, the dashboard will offer a holistic view of sales metrics and trends.
 
-### Dashboard 1 - Main Metrics Dashboard:
+### Dashboard 1 - Main Metrics Dashboard
 1. **KPI Comparison to Previous Year**:
 	- Cost of Goods(COGS), Revenue, Quantity, Profit, Profit Margin, and Transaction compared to the previous year.
 
 2. **Yearly Performance Metrics(Above Average Years)**:
 	- Total Revenue, Profit, and Transaction for years exceeding the average performance.
 
-3. **Monthly Profit Trends**:
+3. **Monthly Profit Trends**
 
-4. **Profit by Week Type**:
+4. **Profit by Week Type**
 
-5. **Quarterly Profit Analysis**:
+5. **Quarterly Profit Analysis**
 
-6. **Profit by Weekday**:
+6. **Profit by Weekday**
 <img width="1377" alt="Dashboard-1" src="https://github.com/fangoaish/Excel__SONATINEN-Sales-Product-Performance-Dashboard/assets/51399519/0ac81010-0fa7-46ce-b894-788ae83fba7a">
 
 
 ### Dashboard 2 - Product Performance Dashboard
-1. **Top 5 Profitable Products (% Contribution and Others)**:
+1. **Top 5 Profitable Products (% Contribution and Others)**
 
-2. **Top 5 Profitable Customers (% Contribution and Others)**:
+2. **Top 5 Profitable Customers (% Contribution and Others)**
 
-3. **Profit by Gender**:
+3. **Profit by Gender**
 
-4. **Profit by Product Color (Highlighting Best Sellers)**:
+4. **Profit by Product Color (Highlighting Best Sellers)**
 
-5. **Profit by Pricing Types**:
+5. **Profit by Pricing Types**
 
-6. **Country-wise Profit (Custom Map)**:
+6. **Country-wise Profit (Custom Map)**
 
-7. **Profit by Age Groups**:
+7. **Profit by Age Groups**
 
 <img width="1337" alt="Dashboard 2" src="https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/361e17f8-52e9-47c4-9e58-52ffc31c2b94">
 
