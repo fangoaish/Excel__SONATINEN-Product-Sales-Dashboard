@@ -99,21 +99,17 @@ The data contains six separate tables:
 
 
 ### Dashboard 2 - Product Performance Dashboard:
-1. **Top 5 Profitable Products & Customers:**
-	- Insight: Identifying top-performing products and customers contributing to overall profitability.
-	- Recommendation: Develop strategies to leverage high-profit products and nurture relationships with key customers. Offer personalized promotions or loyalty programs.
+1. ##Product Performance::##
+	- The top 5 products significantly contribute to the company's profitability, making up nearly a quarter of the total profits. This underscores the importance of these products to the company's portfolio.
+	- Premium pricing strategies are highly effective, accounting for over 90% of total profits, which suggests that customers value and are willing to pay for perceived quality.
 
-2. **Profit by Gender:**
-	- Insight: Analyzing profit breakdown by gender to uncover purchasing behavior differences.
-	- Recommendation: Tailor marketing messages and product offerings to align with gender preferences, maximizing profitability.
+2. ##Customer Demographics:##
+	- Profit distribution across age groups shows that middle-aged customers (41-50 years) are the most profitable, suggesting that this demographic finds significant value in the products and should be a key target in marketing strategies.
+	- Gender distribution in profitability is balanced, indicating effective market penetration across male and female segments.
 
-3. **Profit by Product Color & Pricing Types:**
-	- Insight: Understanding profitability associated with product colors and pricing strategies.
-	- Recommendation: Optimize inventory based on popular product colors and refine pricing strategies to maximize profitability.
-
-4. **Country-wise Profit & Age Groups:**
-	- Insight: Visualizing profit distribution by country and age groups.
-	- Recommendation: Identify untapped markets or demographics with growth potential. Tailor marketing efforts and product offerings to resonate with profitable age groups.
+3. ##Geographic Insights:##
+	- The United States and Australia are the top-performing countries in terms of profitability, pointing to strong market positions and customer bases in these regions.
+	- There is a potential for growth in underperforming countries such as Canada and France, where strategies could be realigned to enhance market penetration and profitability.
 
 
 ## Conclusion
