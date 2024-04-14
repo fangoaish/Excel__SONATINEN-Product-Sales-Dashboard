@@ -12,40 +12,30 @@ The Sales Product Performance Dashboard aims to provide comprehensive insights i
 	- Total Revenue, Profit, and Transaction for years exceeding the average performance.
 
 3. **Monthly Profit Trends**:
-	- Analyzing profit trends monthly.
 
 4. **Profit by Week Type**:
-	- Assessing profit based on different week types.
 
 5. **Quarterly Profit Analysis**:
-	- Evaluating profit performance every quarter.
 
 6. **Profit by Weekday**:
-	- Examining profit trends specific to weekdays.
 <img width="1377" alt="Dashboard-1" src="https://github.com/fangoaish/Excel__SONATINEN-Sales-Product-Performance-Dashboard/assets/51399519/0ac81010-0fa7-46ce-b894-788ae83fba7a">
 
 
 ### Dashboard 2 - Product Performance Dashboard
 1. **Top 5 Profitable Products (% Contribution and Others)**:
-	- Identifies the five most profitable products and their contribution as a percentage of total profits, with insights into the rest.
 
 2. **Top 5 Profitable Customers (% Contribution and Others)**:
-	- Highlights the top five high-profit customers, their percentage share of overall profits, and details about other customers' contributions.
 
 3. **Profit by Gender**:
-	- Displays profit breakdown by gender, helping identify gender-based profit trends.
 
 4. **Profit by Product Color (Highlighting Best Sellers)**:
-	- Analyzes profits associated with product colors, highlighting the best-selling colors for optimization.
 
 5. **Profit by Pricing Types**:
-	- Examines profit variations based on pricing types, providing insights into pricing strategy effectiveness.
 
 6. **Country-wise Profit (Custom Map)**:
-	- Utilizes a custom map to visualize profit distribution by country, aiding in geographic targeting.
 
 7. **Profit by Age Groups**:
-	- Segment profits into age groups to understand which age demographics contribute the most to profitability.
+
 <img width="1337" alt="Dashboard 2" src="https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/361e17f8-52e9-47c4-9e58-52ffc31c2b94">
 
 
