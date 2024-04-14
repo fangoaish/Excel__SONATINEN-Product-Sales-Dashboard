@@ -86,6 +86,11 @@ The data contains six separate tables:
 		- _**Weekdays**_ significantly outperformed weekends, making up _**71.8%**_ of total profit.
 		- Top weekdays for profit were _**Wednesda**y_, _**Tuesda**y_, and _**Thursday**_.
 
+### Recommendations
+- **Optimize Inventory and Pricing Strategies**: Given the high number of unsold products, review inventory levels and pricing strategies to improve turnover rates and reduce holding costs.
+- **Enhance Seasonal and Quarterly Campaigns**: Capitalize on high-performing months and quarters by aligning marketing campaigns, promotions, and stock availability to boost sales during these peak times.
+- **Focus on Weekday Sales**: Since weekdays are more profitable, consider enhancing weekday promotions and potentially offering special deals to boost weekend sales.
+
 
 
 ### Dashboard 2 - Product Performance Dashboard:
