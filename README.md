@@ -79,11 +79,11 @@ The data contains six separate tables:
 
 ### Dashboard 1 - Main Metrics Dashboard:
 1. ### Yearly Performance Analysis
-**Revenue and Profit by Year**
-	- 2015-2018 saw a steady increase in revenue and profit, peaking in 2017 with over $102 million in revenue and a profit of $42.55 million.
-	- Profit margins remained relatively stable (~41%), indicating consistent operational efficiency.
-**Above Average Years (Revenue > $76.77M Average)**
-	- 2017 and 2018 both exceeded the average, contributing 66.5% of the total revenue and 67.1% to overall profit during the observed period.
+	- **Revenue and Profit by Year**
+		- 2015-2018 saw a steady increase in revenue and profit, peaking in 2017 with over $102 million in revenue and a profit of $42.55 million.
+		- Profit margins remained relatively stable (~41%), indicating consistent operational efficiency.
+	- **Above Average Years (Revenue > $76.77M Average)**
+		- 2017 and 2018 both exceeded the average, contributing 66.5% of the total revenue and 67.1% to overall profit during the observed period.
 
 2. Monthly and Quarterly Trends
 Top Performing Months
