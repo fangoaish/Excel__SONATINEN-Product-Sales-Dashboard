@@ -48,8 +48,6 @@ The Sales Product Performance Dashboard aims to provide comprehensive insights i
 	- Segment profits into age groups to understand which age demographics contribute the most to profitability.
 <img width="1337" alt="Dashboard 2" src="https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/361e17f8-52e9-47c4-9e58-52ffc31c2b94">
 
-To build an actionable roadmap for upcoming years based on the metrics provided in the dashboards, we can frame key questions around each metric to guide strategic planning and decision-making. 
-These metrics provide a starting point for analyzing the data presented in the dashboards and developing actionable strategies for future growth and optimization.
 
 ## Project Steps
 1. Data Gathering
