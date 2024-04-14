@@ -85,24 +85,16 @@ The data contains six separate tables:
 	- **Above Average Years (Revenue > $76.77M Average)**
 		- 2017 and 2018 both exceeded the average, contributing 66.5% of the total revenue and 67.1% to overall profit during the observed period.
 
-2. Monthly and Quarterly Trends
-Top Performing Months
-May, June, and December were top performers, contributing significantly to the annual profit with peaks during the mid and end of the year, likely reflecting seasonal sales increases.
-Quarterly Analysis
-Q2 was the highest performing quarter, suggesting a strategic opportunity for targeted marketing and sales initiatives during this period.
-Weekday and Weekend Performance
-Profit by Week Type
-Weekdays significantly outperformed weekends, making up 71.8% of total profit.
-Top weekdays for profit were Wednesday, Tuesday, and Thursday.
+2. ### Monthly and Quarterly Trends
+	- **Top Performing Months**
+		- May, June, and December were top performers, contributing significantly to the annual profit with peaks during the mid and end of the year, likely reflecting seasonal sales increases.
+	- **Quarterly Analysis**
+		- Q2 was the highest performing quarter, suggesting a strategic opportunity for targeted marketing and sales initiatives during this period.
 
-
-
-
-
-
-
-
-
+3. ### Weekday and Weekend Performance
+	- **Profit by Week Type**
+		- Weekdays significantly outperformed weekends, making up 71.8% of total profit.
+		- Top weekdays for profit were Wednesday, Tuesday, and Thursday.
 
 
 
