@@ -22,19 +22,19 @@ The Sales Product Performance Dashboard aims to provide comprehensive insights i
 
 
 ### Dashboard 2 - Product Performance Dashboard
-1. **Top 5 Profitable Products (% Contribution and Others)**
+1. **Top 5 Profitable Products**
 
-2. **Top 5 Profitable Customers (% Contribution and Others)**
+2. **Profit Share of the Top 5 Products v.s. Others**
 
-3. **Profit by Gender**
+3. **Total Products, Sold Products, Unsold Products**
 
-4. **Profit by Product Color (Highlighting Best Sellers)**
+4. **Overview of Total Profit Share by Product Pricing Strategy**
 
-5. **Profit by Pricing Types**
+5. **Avg. Customer Age and #Customers**
 
-6. **Country-wise Profit (Custom Map)**
+6. **Profit by Age Groups**
 
-7. **Profit by Age Groups**
+7. **Total Profit by Countries**
 
 <img width="1337" alt="Dashboard 2" src="https://github.com/fangoaish/Excel__Sales-Product-Performance-Dashboard/assets/51399519/361e17f8-52e9-47c4-9e58-52ffc31c2b94">
 
