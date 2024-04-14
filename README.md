@@ -78,29 +78,32 @@ The data contains six separate tables:
 ## Exploratory Data Analysis
 
 ### Dashboard 1 - Main Metrics Dashboard:
-1. **KPI Comparison to Previous Year:**
-	- Insight: Understanding how key performance indicators (KPIs) such as Cost of Goods, Revenue, Quantity, Profit, Profit Margin, and Transaction perform compared to the previous year.
-	- Recommendation: Identify factors driving changes in metrics and adapt strategies accordingly. For instance, if Profit Margin decreased, assess factors like increased COGS or decreased revenue.
+1. ### Yearly Performance Analysis
+**Revenue and Profit by Year**
+	- 2015-2018 saw a steady increase in revenue and profit, peaking in 2017 with over $102 million in revenue and a profit of $42.55 million.
+	- Profit margins remained relatively stable (~41%), indicating consistent operational efficiency.
+**Above Average Years (Revenue > $76.77M Average)**
+	- 2017 and 2018 both exceeded the average, contributing 66.5% of the total revenue and 67.1% to overall profit during the observed period.
 
-2. **Yearly Performance Metrics (Above Average Years):**
-	- Insight: Identifying years with exceptional performance in Total Revenue, Profit, and Transaction.
-	- Recommendation: Analyze strategies implemented during these high-performing years to replicate success in subsequent years. Implement targeted marketing campaigns or product enhancements.
+2. Monthly and Quarterly Trends
+Top Performing Months
+May, June, and December were top performers, contributing significantly to the annual profit with peaks during the mid and end of the year, likely reflecting seasonal sales increases.
+Quarterly Analysis
+Q2 was the highest performing quarter, suggesting a strategic opportunity for targeted marketing and sales initiatives during this period.
+Weekday and Weekend Performance
+Profit by Week Type
+Weekdays significantly outperformed weekends, making up 71.8% of total profit.
+Top weekdays for profit were Wednesday, Tuesday, and Thursday.
 
-3. **Monthly Profit Trends:**
-	- Insight: Analyzing monthly profit trends to uncover seasonal patterns or fluctuations.
-	- Recommendation: Utilize insights to adjust inventory levels, marketing strategies, or promotions based on seasonal demand fluctuations.
 
-4. **Profit by Week Type:**
-	- Insight: Understanding profit variances across different week types.
-	- Recommendation: Tailor promotions or events to capitalize on days or periods driving higher profits. For instance, offer weekend-specific promotions if weekends consistently yield higher profits.
 
-5. **Quarterly Profit Analysis:**
-	- Insight: Evaluating profit performance by quarter.
-	- Recommendation: Identify quarters with consistent outperformance and investigate factors contributing to success. Adjust inventory levels or marketing strategies accordingly.
 
-6. **Profit by Weekday:**
-	- Insight: Examining profit trends specific to weekdays.
-	- Recommendation: Optimize staffing and inventory management based on weekday profit trends. For example, allocate more resources for high-profit weekdays.
+
+
+
+
+
+
 
 
 ### Dashboard 2 - Product Performance Dashboard:
