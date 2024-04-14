@@ -70,36 +70,36 @@ The data contains six separate tables:
 ### Dashboard 1 - Main Metrics Dashboard:
 1. ### Yearly Performance Analysis
 	- **Revenue and Profit by Year**
-		- _2015-2018_ saw a steady increase in revenue and profit, peaking in _2017_ with over $102 million in revenue and a profit of _$42.55_ million.
-		- Profit margins remained relatively stable (_~41%_), indicating consistent operational efficiency.
+		- _**2015-2018**_ saw a steady increase in revenue and profit, peaking in _**2017**_ with over $102 million in revenue and a profit of _**$42.55**_ million.
+		- Profit margins remained relatively stable (_**~41%**_), indicating consistent operational efficiency.
 	- **Above Average Years (Revenue > $76.77M Average)**
-		- _2017_ and _2018_ both exceeded the average, contributing _66.5%_ of the total revenue and _67.1%_ to overall profit during the observed period.
+		- _**2017**_ and _**2018**_ both exceeded the average, contributing _**66.5%**_ of the total revenue and _**67.1%**_ to overall profit during the observed period.
 
 2. ### Monthly and Quarterly Trends
 	- **Top Performing Months**
-		- _May_, _June_, and _December_ were top performers, contributing significantly to the annual profit with peaks during the mid and end of the year, likely reflecting seasonal sales increases.
+		- _**May**_, _**June**_, and _**December**_ were top performers, contributing significantly to the annual profit with peaks during the mid and end of the year, likely reflecting seasonal sales increases.
 	- **Quarterly Analysis**
-		- _Q2_ was the highest performing quarter, suggesting a strategic opportunity for targeted marketing and sales initiatives during this period.
+		- _**Q2**_ was the highest performing quarter, suggesting a strategic opportunity for targeted marketing and sales initiatives during this period.
 
 3. ### Weekday and Weekend Performance
 	- **Profit by Week Type**
-		- _Weekdays_ significantly outperformed weekends, making up _71.8%_ of total profit.
-		- Top weekdays for profit were _Wednesday_, _Tuesday_, and _Thursday_.
+		- _**Weekdays**_ significantly outperformed weekends, making up _**71.8%**_ of total profit.
+		- Top weekdays for profit were _**Wednesda**y_, _**Tuesda**y_, and _**Thursday**_.
 
 
 
 ### Dashboard 2 - Product Performance Dashboard:
 1. ### Product Performance:
-	- The _top 5 products_ significantly contribute to the company's profitability, making up nearly a quarter of the total profits. This underscores the importance of these products to the company's portfolio.
+	- The _**top 5 product**s_ significantly contribute to the company's profitability, making up nearly a quarter of the total profits. This underscores the importance of these products to the company's portfolio.
 	- _Premium pricing strategies_ are highly effective, accounting for over 90% of total profits, which suggests that customers value and are willing to pay for perceived quality.
 
 2. ### Customer Demographics:
-	- Profit distribution across age groups shows that middle-aged customers (_41-50 years_) are the most profitable, suggesting that this demographic finds significant value in the products and should be a key target in marketing strategies.
+	- Profit distribution across age groups shows that middle-aged customers (_**41-50 years**_) are the most profitable, suggesting that this demographic finds significant value in the products and should be a key target in marketing strategies.
 	- Gender distribution in profitability is balanced, indicating effective market penetration across male and female segments.
 
 3. ### Geographic Insights:
-	- The _United States_ and _Australia_ are the top-performing countries in terms of profitability, pointing to strong market positions and customer bases in these regions.
-	- There is a potential for growth in underperforming countries such as _Canada_ and _France_, where strategies could be realigned to enhance market penetration and profitability.
+	- The _**United States**_ and _**Australia**_ are the top-performing countries in terms of profitability, pointing to strong market positions and customer bases in these regions.
+	- There is a potential for growth in underperforming countries such as _**Canada**_ and _**France**_, where strategies could be realigned to enhance market penetration and profitability.
 
 
 ## Conclusion
